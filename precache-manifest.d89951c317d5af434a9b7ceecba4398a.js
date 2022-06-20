@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f996912282c0b9c5cb4c29619b9b2753",
+    "revision": "35c1b3b74ae34f03f75ca45011482af1",
     "url": "/onepuzzle/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onepuzzle/static/js/2.d61c8ccb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cb2f1420c1e50c8183e",
-    "url": "/onepuzzle/static/js/main.f472cb9a.chunk.js"
+    "revision": "6f10af3e2805ecac9413",
+    "url": "/onepuzzle/static/js/main.e95d6839.chunk.js"
   },
   {
     "revision": "eb143ae1216be336bb57",
