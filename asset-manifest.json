@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/onepuzzle/static/js/main.eb82a29c.chunk.js",
-    "main.js.map": "/onepuzzle/static/js/main.eb82a29c.chunk.js.map",
+    "main.js": "/onepuzzle/static/js/main.9a608b51.chunk.js",
+    "main.js.map": "/onepuzzle/static/js/main.9a608b51.chunk.js.map",
     "runtime-main.js": "/onepuzzle/static/js/runtime-main.0aa3fd33.js",
     "runtime-main.js.map": "/onepuzzle/static/js/runtime-main.0aa3fd33.js.map",
     "static/css/2.b54b9107.chunk.css": "/onepuzzle/static/css/2.b54b9107.chunk.css",
     "static/js/2.619a2342.chunk.js": "/onepuzzle/static/js/2.619a2342.chunk.js",
     "static/js/2.619a2342.chunk.js.map": "/onepuzzle/static/js/2.619a2342.chunk.js.map",
     "index.html": "/onepuzzle/index.html",
-    "precache-manifest.a77c4a58a31ebdf0a4f2a84f0a1d87ff.js": "/onepuzzle/precache-manifest.a77c4a58a31ebdf0a4f2a84f0a1d87ff.js",
+    "precache-manifest.97eed60b489a3ab77f80e70a5834641a.js": "/onepuzzle/precache-manifest.97eed60b489a3ab77f80e70a5834641a.js",
     "service-worker.js": "/onepuzzle/service-worker.js",
     "static/css/2.b54b9107.chunk.css.map": "/onepuzzle/static/css/2.b54b9107.chunk.css.map",
     "static/js/2.619a2342.chunk.js.LICENSE.txt": "/onepuzzle/static/js/2.619a2342.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.0aa3fd33.js",
     "static/css/2.b54b9107.chunk.css",
     "static/js/2.619a2342.chunk.js",
-    "static/js/main.eb82a29c.chunk.js"
+    "static/js/main.9a608b51.chunk.js"
   ]
 }
