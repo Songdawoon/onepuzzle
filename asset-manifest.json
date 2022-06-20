@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/onepuzzle/static/js/main.e95d6839.chunk.js",
-    "main.js.map": "/onepuzzle/static/js/main.e95d6839.chunk.js.map",
-    "runtime-main.js": "/onepuzzle/static/js/runtime-main.585e4244.js",
-    "runtime-main.js.map": "/onepuzzle/static/js/runtime-main.585e4244.js.map",
+    "main.js": "/onepuzzle/static/js/main.eb82a29c.chunk.js",
+    "main.js.map": "/onepuzzle/static/js/main.eb82a29c.chunk.js.map",
+    "runtime-main.js": "/onepuzzle/static/js/runtime-main.0aa3fd33.js",
+    "runtime-main.js.map": "/onepuzzle/static/js/runtime-main.0aa3fd33.js.map",
     "static/css/2.b54b9107.chunk.css": "/onepuzzle/static/css/2.b54b9107.chunk.css",
-    "static/js/2.d61c8ccb.chunk.js": "/onepuzzle/static/js/2.d61c8ccb.chunk.js",
-    "static/js/2.d61c8ccb.chunk.js.map": "/onepuzzle/static/js/2.d61c8ccb.chunk.js.map",
+    "static/js/2.619a2342.chunk.js": "/onepuzzle/static/js/2.619a2342.chunk.js",
+    "static/js/2.619a2342.chunk.js.map": "/onepuzzle/static/js/2.619a2342.chunk.js.map",
     "index.html": "/onepuzzle/index.html",
-    "precache-manifest.d89951c317d5af434a9b7ceecba4398a.js": "/onepuzzle/precache-manifest.d89951c317d5af434a9b7ceecba4398a.js",
+    "precache-manifest.a77c4a58a31ebdf0a4f2a84f0a1d87ff.js": "/onepuzzle/precache-manifest.a77c4a58a31ebdf0a4f2a84f0a1d87ff.js",
     "service-worker.js": "/onepuzzle/service-worker.js",
     "static/css/2.b54b9107.chunk.css.map": "/onepuzzle/static/css/2.b54b9107.chunk.css.map",
-    "static/js/2.d61c8ccb.chunk.js.LICENSE.txt": "/onepuzzle/static/js/2.d61c8ccb.chunk.js.LICENSE.txt",
+    "static/js/2.619a2342.chunk.js.LICENSE.txt": "/onepuzzle/static/js/2.619a2342.chunk.js.LICENSE.txt",
     "static/media/Montserrat-Bold.ttf": "/onepuzzle/static/media/Montserrat-Bold.ade91f47.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/onepuzzle/static/media/Montserrat-SemiBold.c641dbee.ttf",
     "static/media/RobotoMono-Regular.ttf": "/onepuzzle/static/media/RobotoMono-Regular.e5ca8c0a.ttf",
@@ -31,9 +31,9 @@
     "static/media/social-media-arrow.svg": "/onepuzzle/static/media/social-media-arrow.db8e4064.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.585e4244.js",
+    "static/js/runtime-main.0aa3fd33.js",
     "static/css/2.b54b9107.chunk.css",
-    "static/js/2.d61c8ccb.chunk.js",
-    "static/js/main.e95d6839.chunk.js"
+    "static/js/2.619a2342.chunk.js",
+    "static/js/main.eb82a29c.chunk.js"
   ]
 }

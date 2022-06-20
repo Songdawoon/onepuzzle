@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35c1b3b74ae34f03f75ca45011482af1",
+    "revision": "b2c7ff8afc88ebe3cce167dcaaf82c03",
     "url": "/onepuzzle/index.html"
   },
   {
-    "revision": "a593073c8bb2f701e589",
+    "revision": "f887cfc305a36f422c20",
     "url": "/onepuzzle/static/css/2.b54b9107.chunk.css"
   },
   {
-    "revision": "a593073c8bb2f701e589",
-    "url": "/onepuzzle/static/js/2.d61c8ccb.chunk.js"
+    "revision": "f887cfc305a36f422c20",
+    "url": "/onepuzzle/static/js/2.619a2342.chunk.js"
   },
   {
     "revision": "08ae8175acb04dde7408059a162ff07e",
-    "url": "/onepuzzle/static/js/2.d61c8ccb.chunk.js.LICENSE.txt"
+    "url": "/onepuzzle/static/js/2.619a2342.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f10af3e2805ecac9413",
-    "url": "/onepuzzle/static/js/main.e95d6839.chunk.js"
+    "revision": "37b2b14dcb762db117da",
+    "url": "/onepuzzle/static/js/main.eb82a29c.chunk.js"
   },
   {
-    "revision": "eb143ae1216be336bb57",
-    "url": "/onepuzzle/static/js/runtime-main.585e4244.js"
+    "revision": "4025ea972da600b6aafb",
+    "url": "/onepuzzle/static/js/runtime-main.0aa3fd33.js"
   },
   {
     "revision": "ade91f473255991f410f61857696434b",
