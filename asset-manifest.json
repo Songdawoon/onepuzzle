@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.js": "/onepuzzle/static/js/main.2cd1969d.chunk.js",
-    "main.js.map": "/onepuzzle/static/js/main.2cd1969d.chunk.js.map",
+    "main.js": "/onepuzzle/static/js/main.911f92b2.chunk.js",
+    "main.js.map": "/onepuzzle/static/js/main.911f92b2.chunk.js.map",
     "runtime-main.js": "/onepuzzle/static/js/runtime-main.0aa3fd33.js",
     "runtime-main.js.map": "/onepuzzle/static/js/runtime-main.0aa3fd33.js.map",
     "static/css/2.b54b9107.chunk.css": "/onepuzzle/static/css/2.b54b9107.chunk.css",
-    "static/js/2.4bba8c8e.chunk.js": "/onepuzzle/static/js/2.4bba8c8e.chunk.js",
-    "static/js/2.4bba8c8e.chunk.js.map": "/onepuzzle/static/js/2.4bba8c8e.chunk.js.map",
+    "static/js/2.168bca41.chunk.js": "/onepuzzle/static/js/2.168bca41.chunk.js",
+    "static/js/2.168bca41.chunk.js.map": "/onepuzzle/static/js/2.168bca41.chunk.js.map",
     "index.html": "/onepuzzle/index.html",
-    "precache-manifest.7881b097531e616ad843e3838536cd75.js": "/onepuzzle/precache-manifest.7881b097531e616ad843e3838536cd75.js",
+    "precache-manifest.cd72ad1abf14966573b65f188af89722.js": "/onepuzzle/precache-manifest.cd72ad1abf14966573b65f188af89722.js",
     "service-worker.js": "/onepuzzle/service-worker.js",
     "static/css/2.b54b9107.chunk.css.map": "/onepuzzle/static/css/2.b54b9107.chunk.css.map",
-    "static/js/2.4bba8c8e.chunk.js.LICENSE.txt": "/onepuzzle/static/js/2.4bba8c8e.chunk.js.LICENSE.txt",
+    "static/js/2.168bca41.chunk.js.LICENSE.txt": "/onepuzzle/static/js/2.168bca41.chunk.js.LICENSE.txt",
     "static/media/Montserrat-Bold.ttf": "/onepuzzle/static/media/Montserrat-Bold.ade91f47.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/onepuzzle/static/media/Montserrat-SemiBold.c641dbee.ttf",
     "static/media/RobotoMono-Regular.ttf": "/onepuzzle/static/media/RobotoMono-Regular.e5ca8c0a.ttf",
     "static/media/about-page-img.png": "/onepuzzle/static/media/about-page-img.b87a0916.png",
     "static/media/about-sec-img.png": "/onepuzzle/static/media/about-sec-img.a21bda4d.png",
-    "static/media/hero.png": "/onepuzzle/static/media/hero.1c69a0bf.png",
+    "static/media/main.jpg": "/onepuzzle/static/media/main.bfcd7692.jpg",
+    "static/media/main2.jpg": "/onepuzzle/static/media/main2.8ae5a4c7.jpg",
     "static/media/map.png": "/onepuzzle/static/media/map.2b23a573.png",
     "static/media/projectImg.png": "/onepuzzle/static/media/projectImg.28a260ce.png",
     "static/media/project_01.png": "/onepuzzle/static/media/project_01.91aa338a.png",
@@ -34,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.0aa3fd33.js",
     "static/css/2.b54b9107.chunk.css",
-    "static/js/2.4bba8c8e.chunk.js",
-    "static/js/main.2cd1969d.chunk.js"
+    "static/js/2.168bca41.chunk.js",
+    "static/js/main.911f92b2.chunk.js"
   ]
 }
