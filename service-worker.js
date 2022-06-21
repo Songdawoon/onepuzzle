@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/onepuzzle/precache-manifest.97eed60b489a3ab77f80e70a5834641a.js"
+  "/onepuzzle/precache-manifest.f083c2fbe2e740e6f328918ee57b3e1f.js"
 );
 
 self.addEventListener('message', (event) => {
