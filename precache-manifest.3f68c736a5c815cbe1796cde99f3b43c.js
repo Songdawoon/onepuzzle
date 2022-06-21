@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0175cd80139edf09e5edc105cb083bbc",
+    "revision": "13b03603b78af9fed1c74d21a8dfde8a",
     "url": "/onepuzzle/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onepuzzle/static/js/2.e2e7c0ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce2b8455b153d93257e9",
-    "url": "/onepuzzle/static/js/main.2e7d8858.chunk.js"
+    "revision": "4a67b4e7d9a539a45fcd",
+    "url": "/onepuzzle/static/js/main.ed501495.chunk.js"
   },
   {
     "revision": "4025ea972da600b6aafb",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/onepuzzle/static/media/project_08.05d9ee54.png"
   },
   {
-    "revision": "65390ea0aa8781d9f5eb5b8d2b1c6c43",
-    "url": "/onepuzzle/static/media/project_09.65390ea0.jpg"
+    "revision": "e698689c4762a69e0f6ad9e7cf919cb8",
+    "url": "/onepuzzle/static/media/project_09.e698689c.jpg"
   },
   {
     "revision": "67a7fc34e4f29861d84d88065b198a54",
